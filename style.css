@@ -21,3 +21,25 @@ button {
     background-color: var(--primary);
     color: var(--text);
 }
+.navbar {
+    background-color: var(--interface);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+}
+
+.logo {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.nav-links {
+    display: flex;
+    gap: 25px;
+}
+
+.nav-links a {
+    color: var(--text);
+    text-decoration: none;
+}
