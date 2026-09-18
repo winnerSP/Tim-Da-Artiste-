@@ -45,6 +45,8 @@ button {
 .nav-links a {
     color: var(--text);
     text-decoration: none;
+    padding: 8px 12px;
+    border-radius: 8px;
 }
 .nav-links a:hover {
     color: var(--secondary);
