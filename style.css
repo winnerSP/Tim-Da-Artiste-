@@ -46,3 +46,6 @@ button {
     color: var(--text);
     text-decoration: none;
 }
+.nav-links a:hover {
+    color: var(--secondary);
+}
